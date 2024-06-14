@@ -1,0 +1,16 @@
+.col_w320 {width:320px;float:right;}
+.column_wrapper_1000_xw:after {
+	clear:both;
+	content:".";
+	display:block;
+	font-size:0;
+	height:0;
+	line-height:0;
+	visibility:hidden;
+}
+.col_w660 {width:660px;float:left;}
+.column_wrapper_1000_xw {
+	clear:both;
+	margin:0 auto;
+	width:1000px;
+}

@@ -1,0 +1,14 @@
+.column_wrapper_1000_xw:after {
+	clear:both;
+	content:".";
+	display:block;
+	font-size:0;
+	height:0;
+	line-height:0;
+	visibility:hidden;
+}
+.column_wrapper_1000_xw {
+	clear:both;
+	margin:0 auto;
+	width:1000px;
+}
